@@ -352,11 +352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hecto\\Desktop\\MasivianTestSenior\\Masivian.HectorAndradeTest\\Masivian.HectorAndradeTest.AplicationConsole\\HectorAndradeTest.AplicationConsole.csproj",
+      "projectUniqueName": "C:\\Users\\Hecto\\Documents\\ProjectCode\\ProyectConsolePrime\\Masivian.HectorAndradeTest\\Masivian.HectorAndradeTest.AplicationConsole\\HectorAndradeTest.AplicationConsole.csproj",
       "projectName": "HectorAndradeTest.AplicationConsole",
-      "projectPath": "C:\\Users\\Hecto\\Desktop\\MasivianTestSenior\\Masivian.HectorAndradeTest\\Masivian.HectorAndradeTest.AplicationConsole\\HectorAndradeTest.AplicationConsole.csproj",
+      "projectPath": "C:\\Users\\Hecto\\Documents\\ProjectCode\\ProyectConsolePrime\\Masivian.HectorAndradeTest\\Masivian.HectorAndradeTest.AplicationConsole\\HectorAndradeTest.AplicationConsole.csproj",
       "packagesPath": "C:\\Users\\Hecto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hecto\\Desktop\\MasivianTestSenior\\Masivian.HectorAndradeTest\\Masivian.HectorAndradeTest.AplicationConsole\\obj\\",
+      "outputPath": "C:\\Users\\Hecto\\Documents\\ProjectCode\\ProyectConsolePrime\\Masivian.HectorAndradeTest\\Masivian.HectorAndradeTest.AplicationConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hecto\\Documents\\ProjectCode\\ProyectConsolePrime\\Masivian.HectorAndradeTest\\HectorAndradeTest.AplicationConsoleTests\\HectorAndradeTest.AplicationConsoleTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hecto\\Documents\\ProjectCode\\ProyectConsolePrime\\Masivian.HectorAndradeTest\\HectorAndradeTest.AplicationConsoleTests\\HectorAndradeTest.AplicationConsoleTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hecto\\Documents\\ProjectCode\\ProyectConsolePrime\\Masivian.HectorAndradeTest\\HectorAndradeTest.AplicationConsoleTests\\HectorAndradeTest.AplicationConsoleTests.csproj",
+        "projectName": "HectorAndradeTest.AplicationConsoleTests",
+        "projectPath": "C:\\Users\\Hecto\\Documents\\ProjectCode\\ProyectConsolePrime\\Masivian.HectorAndradeTest\\HectorAndradeTest.AplicationConsoleTests\\HectorAndradeTest.AplicationConsoleTests.csproj",
+        "packagesPath": "C:\\Users\\Hecto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hecto\\Documents\\ProjectCode\\ProyectConsolePrime\\Masivian.HectorAndradeTest\\HectorAndradeTest.AplicationConsoleTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Hecto\\Documents\\ProjectCode\\ProyectConsolePrime\\Masivian.HectorAndradeTest\\Masivian.HectorAndradeTest.AplicationConsole\\HectorAndradeTest.AplicationConsole.csproj": {
+                "projectPath": "C:\\Users\\Hecto\\Documents\\ProjectCode\\ProyectConsolePrime\\Masivian.HectorAndradeTest\\Masivian.HectorAndradeTest.AplicationConsole\\HectorAndradeTest.AplicationConsole.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hecto\\Documents\\ProjectCode\\ProyectConsolePrime\\Masivian.HectorAndradeTest\\Masivian.HectorAndradeTest.AplicationConsole\\HectorAndradeTest.AplicationConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hecto\\Documents\\ProjectCode\\ProyectConsolePrime\\Masivian.HectorAndradeTest\\Masivian.HectorAndradeTest.AplicationConsole\\HectorAndradeTest.AplicationConsole.csproj",
+        "projectName": "HectorAndradeTest.AplicationConsole",
+        "projectPath": "C:\\Users\\Hecto\\Documents\\ProjectCode\\ProyectConsolePrime\\Masivian.HectorAndradeTest\\Masivian.HectorAndradeTest.AplicationConsole\\HectorAndradeTest.AplicationConsole.csproj",
+        "packagesPath": "C:\\Users\\Hecto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hecto\\Documents\\ProjectCode\\ProyectConsolePrime\\Masivian.HectorAndradeTest\\Masivian.HectorAndradeTest.AplicationConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.Extensions.Configuration.CommandLine": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

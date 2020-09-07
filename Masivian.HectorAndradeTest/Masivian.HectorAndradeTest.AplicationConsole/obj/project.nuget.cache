@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/YSX7MVsn3SAsWL05T4MwauXV5SdJ79FXTUT9EKRgig4GUbVkVF0BEvMc7dmv7pjFRcuVVe3OIe7rxj2qApEcQ==",
+  "dgSpecHash": "qelNU30DS0NGL9nP2BQqM4nIcgdcM9KRE3EuQZVpfKpdq+wtLE7JJ/+IUjdWpz9Ac7DpQDH0M3R6JXWbr8gTjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hecto\\Desktop\\MasivianTestSenior\\Masivian.HectorAndradeTest\\Masivian.HectorAndradeTest.AplicationConsole\\HectorAndradeTest.AplicationConsole.csproj",
+  "projectFilePath": "C:\\Users\\Hecto\\Documents\\ProjectCode\\ProyectConsolePrime\\Masivian.HectorAndradeTest\\Masivian.HectorAndradeTest.AplicationConsole\\HectorAndradeTest.AplicationConsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hecto\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.7\\microsoft.extensions.configuration.3.1.7.nupkg.sha512",
     "C:\\Users\\Hecto\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.7\\microsoft.extensions.configuration.abstractions.3.1.7.nupkg.sha512",

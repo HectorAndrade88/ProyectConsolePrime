@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HectorAndradeTest.AplicationConsole", "Masivian.HectorAndradeTest.AplicationConsole\HectorAndradeTest.AplicationConsole.csproj", "{4AE6CAA9-FB9B-409B-9D38-EDF838294A29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HectorAndradeTest.AplicationConsoleTests", "HectorAndradeTest.AplicationConsoleTests\HectorAndradeTest.AplicationConsoleTests.csproj", "{F54BC7CE-9C3A-44A0-AD74-F00AA8F5BEF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4AE6CAA9-FB9B-409B-9D38-EDF838294A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AE6CAA9-FB9B-409B-9D38-EDF838294A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AE6CAA9-FB9B-409B-9D38-EDF838294A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54BC7CE-9C3A-44A0-AD74-F00AA8F5BEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54BC7CE-9C3A-44A0-AD74-F00AA8F5BEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54BC7CE-9C3A-44A0-AD74-F00AA8F5BEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54BC7CE-9C3A-44A0-AD74-F00AA8F5BEF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
